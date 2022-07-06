@@ -1,5 +1,5 @@
 # Cartoon-City-UAS-Grafkom
-Kelompok 34
+Kelompok 33
 Anggota Kelompok:
 1. Yefta Nathaniel Watson - C14200004
 2. Glenn Steven Santoso - C14200010
