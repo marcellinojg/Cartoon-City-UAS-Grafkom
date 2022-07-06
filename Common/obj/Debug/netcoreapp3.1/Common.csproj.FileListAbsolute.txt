@@ -1,0 +1,19 @@
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Asisten Grafkom\LearnOpenTK-master  4.0\LearnOpenTK-master\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+E:\Kuliah\Semester 4\Grafkom\Projects\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.deps.json
+E:\Kuliah\Semester 4\Grafkom\Projects\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Kuliah\Semester 4\Grafkom\Projects\Common\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+E:\Kuliah\Semester 4\Grafkom\Projects\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+E:\Kuliah\Semester 4\Grafkom\Projects\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kuliah\Semester 4\Grafkom\Projects\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+E:\Kuliah\Semester 4\Grafkom\Projects\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+E:\Kuliah\Semester 4\Grafkom\Projects\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+E:\Kuliah\Semester 4\Grafkom\Projects\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+E:\Kuliah\Semester 4\Grafkom\Projects\Common\obj\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
